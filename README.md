@@ -1,14 +1,18 @@
 Copy Pasta:
 
-1) wget http://bin.entware.net/mipselsf-k3.4/installer/generic.sh -O - | sh
+1)
+##
+wget http://bin.entware.net/mipselsf-k3.4/installer/generic.sh -O - | sh
 
-2) export PATH=/opt/bin:/opt/sbin:$PATH
+3)
+##
+export PATH=/opt/bin:/opt/sbin:$PATH
 
-3) opkg update
+5) opkg update
 
-4) opkg install git-http
+6) opkg install git-http
 
-5) opkg install git  # (Optional, if git is missing)
+7) opkg install git  # (Optional, if git is missing)
 
 6)mv /usr/bin/git /usr/bin/git.bak
 
