@@ -10,7 +10,7 @@ Copy Pasta:
 
 5) opkg install git  # (Optional, if git is missing)
 
-6)mv /usr/bin/git /usr/bin/git.bak
+6) mv /usr/bin/git /usr/bin/git.bak
 
 7) ln -s /opt/bin/git /usr/bin/git
 
