@@ -1,3 +1,5 @@
+## Created while waiting for GCOCE Typo correction on start_print.cfg by Nik
+
 ## Original Helper Script CFS Branch by Nik Oli:  
 [Git](https://github.com/Nik-oli/Creality-Helper-Script-K1-CFS)
 
