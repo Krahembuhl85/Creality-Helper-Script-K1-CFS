@@ -2,7 +2,7 @@ Copy Pasta:
 
 1)
 ##
-wget http://bin.entware.net/mipselsf-k3.4/installer/generic.sh -O - | sh
+[tab][tab] wget http://bin.entware.net/mipselsf-k3.4/installer/generic.sh -O - | sh
 
 3)
 ##
